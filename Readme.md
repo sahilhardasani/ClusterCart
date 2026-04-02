@@ -87,7 +87,7 @@ The goal is to uncover hidden patterns in customer data to support better market
 - Identified potential high-value and low-value customer groups
 - Useful for targeted marketing and personalization strategies
 
-## ▶ How to Run
+##  How to Run
 
 1. Clone the repository:
 ```bash
